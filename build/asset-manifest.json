@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c854e8fe.css",
+    "main.js": "/static/js/main.659d3e3f.js",
+    "static/js/453.74561661.chunk.js": "/static/js/453.74561661.chunk.js",
+    "static/media/FirstLogo.png": "/static/media/FirstLogo.396713e0b7876a915679.png",
+    "static/media/logo.jpg": "/static/media/logo.744dcab917e835070047.jpg",
+    "index.html": "/index.html",
+    "main.c854e8fe.css.map": "/static/css/main.c854e8fe.css.map",
+    "main.659d3e3f.js.map": "/static/js/main.659d3e3f.js.map",
+    "453.74561661.chunk.js.map": "/static/js/453.74561661.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c854e8fe.css",
+    "static/js/main.659d3e3f.js"
+  ]
+}
